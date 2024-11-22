@@ -7,8 +7,7 @@ public class IT24104217Lab3Q1B {
 
         
         System.out.print("Enter the price of 1 kg of rice: ");
-        double pricePerKg = scanner.nextDouble(); // Read the price
-
+        double pricePerKg = scanner.nextDouble(); 
                 System.out.print("Enter the number of kilograms you want to buy: ");
         double quantityKg = scanner.nextDouble(); 
 
